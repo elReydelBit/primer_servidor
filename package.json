@@ -1,0 +1,12 @@
+{
+    "name": "primer_servidor",
+    "version": "1.0.0",
+    "description": "Demostración de despliegue en servidor",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
